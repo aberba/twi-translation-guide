@@ -1,10 +1,10 @@
-# Akan Translation Guide
+# Twi Translation Guide
 
-![Gnome Akan Translation Page](images/akan-banner.png)
+![Gnome Twi Translation Page](images/akan-banner.png)
 
-Welcome to a translation guide from `Akan Translators`. This guide is meant to guide you to translate any software into Akan language (twi) using common conventions.
+Welcome to a translation guide from `Twi Translators`. This guide is meant to guide you to translate any software into Akan language (twi) using common conventions.
 
-> The Akan (ak) language, **twi**, is commonly spoken in Ghana: a country in West Africa. Although twi is just one of the many local languages spoken in Ghana, it is very popular and almost everywhere you go, you are likely to find someone who speaks or understand the language. (The national language of Ghana is English).
+> **Twi** is commonly spoken in Ghana: a country in West Africa. Although twi is just one of the many local languages spoken in Ghana, it is very popular and almost everywhere you go, you are likely to find someone who speaks or understand the language. (The national language of Ghana is English).
 
 > - **Why Twi?** Even though twi is commonly spoken in Ghana, it rare to find softwares, documentations, or technologies using the language. Hopefully this guide may serve as a basic reference for translating stuff into twi to make them accessible to many locals.
 > - Although there are many variants of the twi, this guide will prefer the _Asante twi_ where possible to ensure consistency.
@@ -33,7 +33,7 @@ Plural Forms      | nplurals=2; plural=(n > 1);              | -
 <span id="projects">
 </span>
 
-## List of Akan (twi) Translation Projects
+## List of Twi Translation Projects
 
 - [elementary OS Akan Translation](https:github.com/laberba/elementaryOS-akan-guide): A project aimed at translating [elementary OS](https://elementary.io) into twi.
 - [Gnome Akan Translation](https://github.com/laberba/gnome-akan-translation-guide): A project aimed at translating the [Gnome Desktop and Software Stack](https://gnome.org) into twi.
@@ -41,7 +41,7 @@ Plural Forms      | nplurals=2; plural=(n > 1);              | -
 <span id="akan-characters">
 </span>
 
-## List of Akan Characters.
+## List of Twi Characters.
 
 Upper-case | Lower-case | Sample Words(s) or Phrase
 ---------- | ---------- | -------------------------
@@ -60,9 +60,9 @@ Upper-case | Lower-case | Sample Words(s) or Phrase
 <span id="months">
 </span>
 
-## Months in Akan
+## Months in Twi
 
-English   | Akan
+English   | Twi
 --------- | ----------------------------
 January   | ɔpepɔn
 February  | ɔgyefuo
@@ -82,7 +82,7 @@ December  | ɔpɛnimma
 <span id="days">
 </span>
 
-English   | Akan
+English   | Twi
 --------- | --------
 Sunday    | Kwasiada
 Monday    | Dwowda
@@ -95,7 +95,7 @@ Saturday  | Memenda
 <span id="terms">
 </span>
 
-## List of common terms and their Akan translations
+## List of common terms and their twi translations
 
 Each term has a marker such as **_(v)_**, **_(n)_**, **_(adj)_** indicating the term is either a **_nouns_**, **_verb_**, **_adjective_** respectively. Note that these translations are based in the context of computer science (Applying it in other context such as conversation, song, academic work, etc. may not be appropriate).
 
