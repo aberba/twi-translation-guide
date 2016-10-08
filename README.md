@@ -97,7 +97,7 @@ Saturday  | Memenda
 
 ## List of common terms and their twi translations
 
-Each term has a marker such as **_(v)_**, **_(n)_**, **_(adj)_** indicating the term is either a **_nouns_**, **_verb_**, **_adjective_** respectively. Note that these translations are based in the context of computer science (Applying it in other context such as conversation, song, academic work, etc. may not be appropriate).
+Each term has a marker such as **_(v)_**, **_(n)_**, **_(adj)_** indicating the term is either a **_nouns_**, **_verb_**, **_adjective_** respectively. Note that these translations are based in the context of computer science (Applying it in other context such as conversation, song, academic work, etc. may not be appropriate). See also [elementary OS translation-guide](https://github.com/laberba/elementaryOS-twi-guide)
 
 English          | Twi Singular | Twi Plural        | Used in sentence or phrase                | Notice
 ---------------- | ------------ | ----------------- | ----------------------------------------- | -------------------------------------------------------------------
