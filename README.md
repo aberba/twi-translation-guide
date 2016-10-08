@@ -35,8 +35,8 @@ Plural Forms      | nplurals=2; plural=(n > 1);              | -
 
 ## List of Twi Translation Projects
 
-- [elementary OS Akan Translation](https:github.com/laberba/elementaryOS-akan-guide): A project aimed at translating [elementary OS](https://elementary.io) into twi.
-- [Gnome Akan Translation](https://github.com/laberba/gnome-akan-translation-guide): A project aimed at translating the [Gnome Desktop and Software Stack](https://gnome.org) into twi.
+- [elementary OS Twi Translation Guide](https://github.com/laberba/elementaryOS-twi-guide): A project aimed at translating [elementary OS](https://elementary.io) into twi.
+- [Gnome Twi Translation Guide](https://github.com/laberba/gnome-twi-translation-guide): A project aimed at translating the [Gnome Desktop and Software Stack](https://gnome.org) into Twi.
 
 <span id="akan-characters">
 </span>
