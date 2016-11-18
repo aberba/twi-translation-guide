@@ -2,6 +2,8 @@
 
 ![Gnome Twi Translation Page](images/akan-banner.png)
 
+## This project is part of [Open Twi](https://github.com/aberba/open-twi/) initiative
+
 Welcome to a translation guide from `Twi Translators`. This guide is meant to guide you to translate any software into Akan language (twi) using common conventions.
 
 > **Twi** is commonly spoken in Ghana: a country in West Africa. Although twi is just one of the many local languages spoken in Ghana, it is very popular and almost everywhere you go, you are likely to find someone who speaks or understand the language. (The national language of Ghana is English).
@@ -49,7 +51,7 @@ Upper-case | Lower-case | Sample Words(s) or Phrase
 -          | έ          | Sέ anka wopɛ sɛ wo bue?
 Ɔ          | ɔ          | Ɔgya, Bɔ nnwom
 ...        | ...        | Bue wɔ ...
-Ã          | ã         | Fã, Mã
+Ã          | ã         | Fã, Mã
 Á          | á          | Ná mentumi nhu
 É          | é          | -
 Ũ          | ũ          | Mũ
@@ -122,7 +124,7 @@ Save             | Kora         | -                 | -                         
 Indicator        | Ahyensodeɛ   | Ahyensodeɛ Ahoroɔ | -                                         | -
 Notification     | Kɔkɔbɔ       | Kɔkɔbɔ Ahoroɔ     | -                                         | -
 Click (n)        | Klik         | Klik Ahoroɔ       | -                                         | -
-Click (v)        | Klike        | -                 | `Klicke` HOME afã hɔ                     | -
+Click (v)        | Klike        | -                 | `Klicke` HOME afã hɔ                     | -
 Website          | Wɛbsaet      | Wɛbsaet Ahoroɔ    | Kɔ yɛn `wɛbsaet` hɔ                       | -
 Contact (v)      | Di Nkitaho   | -                 | Wo ne yɛn `nni nkitaho` wɔ user@gmail.com | -
 Alert Dialog (n) | Kɔkɔbɔ Pono  | -                 | -                                         | -
