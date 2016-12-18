@@ -1,6 +1,6 @@
 # Twi Translation Guide
 
-![Gnome Twi Translation Page](images/akan-banner.png)
+![Banner Image](images/akan-banner.png)
 
 ## This project is part of [Open Twi](https://github.com/aberba/open-twi/) initiative
 
