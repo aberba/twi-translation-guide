@@ -4,12 +4,13 @@
 
 ## This project is part of [Open Twi](https://github.com/aberba/open-twi/) initiative
 
-Welcome to a translation guide from `Twi Translators`. This guide is meant to guide you to translate any software into Akan language (twi) using common conventions.
+Welcome to a translation guide from `Twi Translators`. This is a basic guide for translating any text content into Twi using common conventions.
 
 > **Twi** is commonly spoken in Ghana: a country in West Africa. Although twi is just one of the many local languages spoken in Ghana, it is very popular and almost everywhere you go, you are likely to find someone who speaks or understand the language. (The national language of Ghana is English).
 
 > - **Why Twi?** Even though twi is commonly spoken in Ghana, it rare to find softwares, documentations, or technologies using the language. Hopefully this guide may serve as a basic reference for translating stuff into twi to make them accessible to many locals.
 > - Although there are many variants of the twi, this guide will prefer the _Asante twi_ where possible to ensure consistency.
+> - __NOTE__: Some people refer to Twi as Akan which is rather the name for those tribes who speak Twi.
 
 ## Contents Outline
 
