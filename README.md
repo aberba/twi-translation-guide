@@ -66,7 +66,7 @@ Upper-case | Lower-case | Sample Words(s) or Phrase
 
 English   | Twi
 --------- | ----------------------------
-January   | ɔpepɔn
+January   | ɔpɛpɔn
 February  | ɔgyefuo
 March     | ɔbɛnem
 April     | Oforisuo / Oforisuo Agyenkɔ
@@ -74,7 +74,7 @@ May       | Kotonimaa / Ohawam Kotonimaa
 June      | Ayɛwohomumu Ayɛwohomɔmɔ
 July      | Kutawonsa
 August    | Sanaa
-September | ɛbɔ
+September | Ɛbɔ
 October   | Ahinime
 November  | Obubuo
 December  | ɔpɛnimma
