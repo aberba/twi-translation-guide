@@ -67,18 +67,18 @@ Upper-case | Lower-case | Sample Words(s) or Phrase
 
 English   | Twi
 --------- | ----------------------------
-January   | ɔpɛpɔn
-February  | ɔgyefuo
-March     | ɔbɛnem
-April     | Oforisuo / Oforisuo Agyenkɔ
-May       | Kotonimaa / Ohawam Kotonimaa
-June      | Ayɛwohomumu Ayɛwohomɔmɔ
+January   | Ɔpɛpɔn
+February  | Ɔgyefoɔ
+March     | Ɔbɛnem
+April     | Oforisuo
+May       | Kotonimma
+June      | Ayɛwohomumɔ
 July      | Kutawonsa
-August    | Sanaa
+August    | Ɔsanaa
 September | Ɛbɔ
 October   | Ahinime
 November  | Obubuo
-December  | ɔpɛnimma
+December  | Ɔpɛnimma
 
 ## Days in Akan
 
