@@ -134,9 +134,3 @@ Address          | Adrɛs        | -                 | -                        
 Learn (v)        | Sua          | -                 | Sua ade wɔ intanɛt so                     | -
 Phone (n)        | Fon          | Fon Ahoroɔ        | Gye yɛn `fon` number                      | -
 Telephone (n)    | Tɛlefon      | Tɛlefon Ahoroɔ    | Frɛ yɛn wɔ `tɛlefon` so                   | -
--                | -            | -                 | -                                         | -
--                | -            | -                 | -                                         | -
--                | -            | -                 | -                                         | -
--                | -            | -                 | -                                         | -
--                | -            | -                 | -                                         | -
--                | -            | -                 | -                                         | -
